@@ -9,3 +9,20 @@ body {
     flex: 1 0 auto;
   }
       
+      header {
+   
+   
+    margin: 0;
+    height: 100vh;
+}
+h1 {
+	font-weight: bold;
+}
+
+.navbar-logo {
+    height: 1.8em;
+    margin-top: .1em;
+}
+.container {
+	 margin-top: .1em;
+}
