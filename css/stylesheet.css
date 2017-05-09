@@ -26,3 +26,20 @@ h1 {
 .container {
 	 margin-top: .1em;
 }
+
+.slider {
+  height: 840px;
+}
+@media (max-width: 700px) {
+  .slider {
+   height: 600px;
+  }
+  @media (max-width: 600px) {
+  .slider {
+   height: 500px;
+  }
+  @media (max-width: 400px) {
+  .slider {
+   height: 300x;
+  }
+  
